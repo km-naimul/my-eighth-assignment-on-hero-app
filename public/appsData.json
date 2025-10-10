@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/NnpsMrnB/1200x630wa.png",
+    "title": "TaskMaster : Stay organized ",
+    "companyName": "TaskTech",
+    "description": "A productivity app to manage tasks efficiently.",
+    "size": 50,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 20 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/k23HCk22/8e270a27e139387f6f21bf6aab9743f5-icon.png",
+    "title": "FitTrack : Track your workouts",
+    "companyName": "Healthify",
+    "description": "Track your fitness journey with personalized plans.",
+    "size": 75,
+    "reviews": 2500,
+    "ratingAvg": 4.7,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 30 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/GQnKt3cV/unnamed.png",
+    "title": "StudyHub : Learn smarter ",
+    "companyName": "EduTech",
+    "description": "A platform for students to access learning materials.",
+    "size": 60,
+    "reviews": 1800,
+    "ratingAvg": 4.6,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 25 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/C5P6t1MN/Shop-Ease-copy1.jpg",
+    "title": "ShopEase : Discover amazing deals",
+    "companyName": "RetailCo",
+    "description": "Online shopping made easy with exclusive deals.",
+    "size": 100,
+    "reviews": 3000,
+    "ratingAvg": 4.8,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/mFtFzhCB/travelmate.png",
+    "title": "TravelMate : Plan your trips ",
+    "companyName": "GlobeTrotters",
+    "description": "Plan your trips with curated itineraries and tips.",
+    "size": 80,
+    "reviews": 2200,
+    "ratingAvg": 4.4,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 35 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/hxZjP7px/2285e8183281547-653cca379ff91.png",
+    "title": "CookMaster: Explore of recipes",
+    "companyName": "Foodies Inc",
+    "description": "Discover and save your favorite recipes.",
+    "size": 70,
+    "reviews": 1500,
+    "ratingAvg": 4.3,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 25 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/gZqJqSgc/1-9-Qb2l-rj-QALP9-VDhr-J7fr-Q-2x.png",
+    "title": "NewsNow: Stay updated ",
+    "companyName": "MediaCorp",
+    "description": "Stay updated with the latest news and headlines.",
+    "size": 90,
+    "reviews": 2800,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 55 },
+      { "name": "4 star", "count": 40 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/7t906rCt/Screenshot-2022-11-12-19-35-50-45-0b2fce7a16bf2b728d6ffa28c8d60efb.jpg",
+    "title": "FinancePro: Take control finances ",
+    "companyName": "FinTech Ltd",
+    "description": "Manage your finances with budgeting tools.",
+    "size": 110,
+    "reviews": 3500,
+    "ratingAvg": 4.9,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 75 },
+      { "name": "4 star", "count": 50 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  }
+]
